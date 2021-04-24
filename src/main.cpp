@@ -33,7 +33,7 @@ enum eChislaCode_
     eChislaCode_C
 };
 
-float Discrement(float iChisla[3])
+float Discriminant(float iChisla[3])
 {
     return ((iChisla[eChislaCode_B] * iChisla[eChislaCode_B]) + (-4 * iChisla[eChislaCode_A] * iChisla[eChislaCode_C]));
 }
@@ -57,7 +57,7 @@ int main()
     std::cin >> fChisla[eChislaCode_C];
 
     std::cout << "======" << std::endl << "Дискриминант равен: ";
-    float fDis = Discrement(fChisla);
+    float fDis = Discriminant(fChisla);
     std::cout << fDis << std::endl << "Ответ: ";
 
     if (fDis < 0.f)
