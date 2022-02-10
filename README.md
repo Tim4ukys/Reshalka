@@ -1,7 +1,7 @@
 # Reshalka
 
 ## Russian
-Reshalka - Это _Консольное WIN32 приложение_, которое решает квадратные уравнения.
+Reshalka - Это приложение, которое решает квадратные уравнения.
 
 <p align="center"><img src="https://i.imgur.com/KBAcYDa.png"></p>
 
