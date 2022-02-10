@@ -10,4 +10,4 @@ Reshalka - Это _Консольное WIN32 приложение_, котор�
 [Скачать](https://github.com/Tim4ukys/Reshalka/raw/main/build/Reshalka.exe)
 
 ## Credits & Greets
-[Tim4ukys](vk.com/tim4ukys) - Кодер, создатель данного WIN32 приложения
+[Tim4ukys](vk.com/tim4ukys)
